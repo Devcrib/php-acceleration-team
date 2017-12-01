@@ -1,2 +1,19 @@
 # php-acceleration-team
 This is php acceleration repo, it contains the solutions of all given tasks
+
+## Other Solutions in gist
+The solution to other question that involve no coding can be found in the following
+url
+
+### question 1
+URL: http://bit.ly/2kg37aI
+
+### question 2
+
+URL: http://bit.ly/2keNT6a
+
+### question 3
+URL: http://bit.ly/2Ao4WGV
+
+### question 4
+URL: http://bit.ly/2AxDWXP
